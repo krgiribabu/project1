@@ -8,7 +8,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Naveen</title>
+    <title>Hello, world!</title>
   </head>
   <body>
         {% include 'title.html' %}
@@ -17,7 +17,7 @@
         <table align="center" border="0">
             <tr>
                 <th height="100">
-                    <h3>Home Page</h3>
+                    <h3>Sathya Blood Bank Home Page</h3>
                 </th>
             </tr>
         </table>
